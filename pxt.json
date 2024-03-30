@@ -1,0 +1,57 @@
+{
+    "name": "Point Red",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.18",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "pxt-sight": "github:felixtsu/pxt-sight#v0.2.2",
+        "animation": "*",
+        "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64",
+        "Makey Makey Keymappings": "github:joylabz/makeymakey-makecode-arcade-extension#1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.49",
+        "tag": "v1.12.49",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/8b39eda27ca91b27b57fc1f30c6b3b33d3fc2029",
+        "target": "1.12.49",
+        "pxt": "8.5.60",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#6B6974",
+        "#3C3B45",
+        "#231D24",
+        "#000000",
+        "#943C0C",
+        "#7C2A19",
+        "#6B403D",
+        "#4D071D",
+        "#31181E",
+        "#7C4D19",
+        "#5C200A",
+        "#CCA171",
+        "#9A6654",
+        "#55634D",
+        "#3F4339"
+    ]
+}
